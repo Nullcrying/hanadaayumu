@@ -1,2 +1,2 @@
 
-print("Hello World")
+print("電気・情報生命工学科はクソ")
